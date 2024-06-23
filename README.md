@@ -16,14 +16,14 @@ Geospatial Analysis: Mapping listings to understand geographic distribution and 
 Price Analysis: Investigating pricing trends across different boroughs and room types.
 
 # Requirements
-Python 3.7+
-Jupyter Notebook
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Geopandas
-Folium
+Python 3.7+,
+Jupyter Notebook,
+Pandas,
+NumPy,
+Matplotlib,
+Seaborn,
+Geopandas,
+Folium,
 Plotly
 
 # Results
